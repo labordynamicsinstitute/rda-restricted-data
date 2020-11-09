@@ -16,7 +16,7 @@ Reproducibility and replicability are critical elements of credible scientific r
 ### 2020-11-09 - 2020-11-11: Research Data Alliance Virtual Plenary VP16
 
 - Main [RDA Plenary web page](https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual)
-- [Video with narration of this talk](https://www.youtube.com/watch?v=9kZW_JhgBpA)
+- [Video with narration of this talk](https://www.youtube.com/watch?v=1DYnBiD2zsI)
 
 ## License
 
